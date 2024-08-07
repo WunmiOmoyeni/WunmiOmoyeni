@@ -1,5 +1,4 @@
-## Hi there 👋
-ggggggggggggggggg
+## Hi there 👋, I am a Frontend Developer from Lagos, Nigeria.
 <!--
 **WunmiOmoyeni/WunmiOmoyeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
