@@ -1,7 +1,7 @@
 ## Hi I'm Wunmi👋
 
-🌱 CS grad
-🌱 Frontend Developer from Lagos, Nigeria
+🌱 CS grad <br>
+🌱 Frontend Developer from Lagos, Nigeria <br>
 
 
 # 💻 Tech Stack:
